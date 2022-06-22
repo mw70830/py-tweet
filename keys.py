@@ -12,4 +12,4 @@ ACCESS_TOKEN=
 ACCESS_TOKEN_SECRET=
 )
 
-user_name = #@ 뺀 id 값 입력.
+user_name = #@ 뺀 id 값 입력. 예쩨) user_name="testerA"
